@@ -5,7 +5,7 @@
 ![.NET](https://img.shields.io/badge/.NET%20Standard-2.0-blue.svg)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 
-![Platforms](https://img.shields.io/badge/Design%20Automation-v3-green.svg)
+![Platforms](https://img.shields.io/badge/Automation%20API-v3-green.svg)
 ![Platforms](https://img.shields.io/badge/Inventor-grey.svg)
 
 This is package helps leverage Inventor plugin code for the Automation Service. The compiled version is available on [Nuget](https://www.nuget.org/packages/Autodesk.Forge.DesignAutomation.Inventor.Utils).
